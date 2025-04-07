@@ -1,7 +1,11 @@
-<h1 align="center">Hi there 👋, I'm a .NET Back-End Developer</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
+<h1 align="center">Simox - .NET Back-End Developer</h1>
+ <a href="https://youtu.be/hWhgrA2dhrk?si=Pu_2DoKu0LpE1mTv" target="_blank">
+    <img 
+      src="https://wallpapersok.com/images/high/minimalist-persona-3-male-protagonist-37knmvd0e1eptija.webp" 
+      style="width:100%" 
+      alt="\[T]/" 
+    />
+  </a>
 
 ---
 

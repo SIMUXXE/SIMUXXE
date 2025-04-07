@@ -55,7 +55,7 @@ Stay tuned for more updates!
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/simone-esposito-19572b30b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-esposito-19572b30b/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.simonlogicallayer.com/)
 ---

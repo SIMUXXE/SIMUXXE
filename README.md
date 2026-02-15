@@ -1,4 +1,4 @@
-<h1 align="center">Simox - .NET Back-End Developer</h1>
+<h1 align="center">Simox - .NET Fullstack Developer</h1>
  <a href="https://youtu.be/hWhgrA2dhrk?si=Pu_2DoKu0LpE1mTv" target="_blank">
     <img 
       src="https://wallpapersok.com/images/high/minimalist-persona-3-male-protagonist-37knmvd0e1eptija.webp" 
